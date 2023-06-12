@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services Project1", "Integration Services Project1\Integration Services Project1.dtproj", "{7680A261-BD15-4FEA-A551-135F29F4A941}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F59893B3-C801-4192-B498-2C5C88B1407E}"
+	ProjectSection(SolutionItems) = preProject
+		E:\year03.semester01\DWBI\lab1\DWBI_Practical_01_2023_Resources\DWBI_Practical_01_2023_Resources\Data Descriptions edited.xlsx = E:\year03.semester01\DWBI\lab1\DWBI_Practical_01_2023_Resources\DWBI_Practical_01_2023_Resources\Data Descriptions edited.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7680A261-BD15-4FEA-A551-135F29F4A941}.Development|Default.ActiveCfg = Development
+		{7680A261-BD15-4FEA-A551-135F29F4A941}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F565366-726B-4812-B266-901CA8D900A0}
+	EndGlobalSection
+EndGlobal
